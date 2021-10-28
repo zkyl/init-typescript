@@ -25,4 +25,4 @@ let objKu = {
     label: "size 10 object"
 }
 
-printLabel(objKu
+printLabel(objKu)
